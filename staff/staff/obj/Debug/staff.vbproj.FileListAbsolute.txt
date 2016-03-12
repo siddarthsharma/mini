@@ -1,0 +1,12 @@
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\bin\Debug\staff.exe.config
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\bin\Debug\STAFF.accdb
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\bin\Debug\staff.exe
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\bin\Debug\staff.pdb
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\bin\Debug\staff.xml
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\obj\Debug\staff.vbprojResolveAssemblyReference.cache
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\obj\Debug\staff.Form1.resources
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\obj\Debug\staff.Resources.resources
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\obj\Debug\staff.vbproj.GenerateResource.Cache
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\obj\Debug\staff.exe
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\obj\Debug\staff.xml
+c:\users\siddarth\documents\visual studio 2015\Projects\staff\staff\obj\Debug\staff.pdb
